@@ -1,0 +1,32 @@
+#aa4{
+    width:400px;
+    align-items: center;
+}
+#aa8{
+    margin-top: 220px;
+}
+#aa6{
+    border-radius: 50px;
+}
+@media only screen and (min-width: 769px) {
+#aa7{
+   margin-left: 100px;
+}}
+@media only screen and (max-width: 440px) {
+    #aa7{
+        text-align: center;
+    }
+}
+#aa5{
+    background-color:cadetblue;
+}
+@media only screen and (max-width: 440px) {
+#aa9{
+    height: 354px;
+}}
+@media only screen and (min-width: 769px) {
+    #aa9{
+        height: 724px;
+    }
+    
+}

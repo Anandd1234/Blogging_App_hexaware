@@ -1,0 +1,45 @@
+#r2{
+   text-align: center;
+}
+#r3{
+    text-align: center;
+}
+#r6{
+    width: 400px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(4, 93, 93);
+}
+@media only screen and (min-width: 769px) {
+    #r4{
+        height:742px;
+        background-image: url('../public/image/pexels-cottonbro-studio-9943236.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: aqua;
+     
+    }
+    }
+    @media only screen and (max-width: 490px) {
+        #r4 {
+          
+          background-image: url('../public/image/windows-hNiNxhUfCfQ-unsplash.jpg');
+          background-size: cover;
+          background-repeat: no-repeat;
+          height: 864px;
+          
+    
+         
+        }
+      }
+      
+
+
+#q1{
+        color: rgb(255, 0, 153);
+    }
+@media only screen and (max-width: 490px) {    
+#r5{
+     margin-bottom: 99px;
+}}
